@@ -1,0 +1,38 @@
+*{
+    background-color: #00008B; 
+}
+
+.container h1{
+    color: white;
+}
+.container p{
+    color: white;
+}
+.container option{
+    color: white;
+}
+.container select{
+    background-color: white;
+    border: 3px;
+    border-radius: 5px;
+}
+
+
+
+.row button{
+    color: white;
+    background-color: #00BFFF;
+
+}
+table tr{
+    color: white;
+}
+
+
+
+hr{
+    background-color: white;
+    border-radius: 5px;
+    color: white;
+    height: 6px;
+}
